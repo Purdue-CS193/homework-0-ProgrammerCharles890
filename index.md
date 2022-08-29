@@ -1,5 +1,5 @@
 # Charlie's First CS193 Homework
-- Really useful class (since our CS180 professor uses terminals a lot)
+- Really useful class to learn certain tools used in CS180
 - The "Would you rather" questions
 ## Welcome to GitHub Pages
 
